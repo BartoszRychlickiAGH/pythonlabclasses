@@ -1,0 +1,6 @@
+a = input("Podaj pierwsza liczbe: ")
+b = input("Podaj pierwsza liczbe: ")
+print(type(a), " ",type(b))
+c=float(a)
+d=float(b)
+print("Suma:",(c+d) ,"Iloczyn:",(c*d))
